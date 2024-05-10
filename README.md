@@ -7,6 +7,4 @@ Performance Optimization: Leverage the power of Face Security API for efficient 
 
 👩‍💻 Get Started: Clone the repository Follow the documentation for seamless integration
 
-📖 Resources: Documentation Issue Tracke Community Forum
-
 🔐 Secure your edge computing environments with EdgeSecurity-API!
