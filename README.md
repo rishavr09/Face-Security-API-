@@ -1,4 +1,3 @@
-#LEVERAGING FACE SECURITY API FOR ENHANCING EDGE COMPUTING SECURITY
 Welcome to the official repository for the EdgeSecurity-API project! This research-driven initiative explores the integration of a Face Security API to fortify security measures in edge computing environments. As edge computing gains momentum, securing distributed systems becomes a paramount concern, making facial recognition technology a compelling solution.
 
 🚀 Key Features:
